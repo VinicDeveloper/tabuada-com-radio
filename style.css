@@ -1,0 +1,55 @@
+body{
+    background-image: linear-gradient(100deg,rgb(196, 13, 13),rgb(20, 8, 192));
+    font: 15pt normal Fantasy;
+    background-repeat: repeat-y;
+}
+
+section{
+  width: 550px;
+  height:350px;
+  margin:auto;
+  background-image: linear-gradient(170deg,rgb(11, 192, 192),rgb(247, 70, 0));
+  padding: 20px;
+  border-radius: 45px;
+  border-top: 10px;
+  border-bottom: 10px;
+  box-shadow: 15pt 13pt 29pt;
+}
+img{
+    width: 500px;
+    height: 350px;
+    display: block;
+    margin: auto;
+    border-radius: 10px;
+}
+h1{
+    text-align: center;
+    color: rgb(233, 141, 4);
+}
+
+p{
+    color: rgb(4, 233, 157);
+}
+select{
+    text-align: center;
+    display: block;
+    margin: auto;
+}
+
+input.cu{
+    text-align: center;
+    display: block;
+    margin:auto;
+
+}
+
+input.ass{
+    text-align: center;
+    border-left: 14pt;
+    display: flexbox;
+    
+}
+label{
+ text-align: center;   
+ border-left: 14pt;
+}
